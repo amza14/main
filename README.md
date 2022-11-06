@@ -10,4 +10,4 @@ To create ATM UI for each available state (in general)
 
 1. UI Login
 
-2. 
+2.
