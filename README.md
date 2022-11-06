@@ -9,7 +9,10 @@ To create ATM UI for each available state (in general)
 - end screen interface
 
 1. UI Login
-- ???
+- user insert card
+- select language
+- enter pin card
+- select transaction
 
 2. Balance inquiry
 - Select account type
