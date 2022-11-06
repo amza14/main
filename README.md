@@ -31,6 +31,6 @@ To create ATM UI for each available state (in general)
 - Ask the client either they want a receipt or not
 
 5. deposit
--enter cash money to be deposited
--check total money deposited
--ask the client to take recepit
+- enter cash money to be deposited
+- check total money deposited
+- ask the client to take recepit
