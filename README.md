@@ -33,7 +33,15 @@ To create ATM UI for each available state (in general)
 - Notify the client the transaction is a success or rejected
 - Ask the client either they want a receipt or not
 
-5. deposit
+5. Deposit
 - enter cash money to be deposited
 - check total money deposited
 - ask the client to take recepit
+
+6. Transfer
+ - choose type of transfer
+ - enter amount
+ - choose type of beneficiary bank
+ - enter account number of beneficiary
+ - enter reference number of the transaction
+ - transaction is success
